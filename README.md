@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm a Senior Web Developer</h1>
 
 - 📫 How to reach me </br>
-    Email: applegod126@gmail.com</br>
+    Email: apple.god313@gmail.com</br>
     Skype: live:.cid.5a72c98ce33cca33</br>
     
 <h3 align="left">Languages and Tools:</h3>
